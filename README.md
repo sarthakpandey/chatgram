@@ -4,8 +4,9 @@
 
 ## Screenshots
 
-    ![login](https://user-images.githubusercontent.com/24732956/78401493-7c00b280-7616-11ea-8238-63d1e69e47dd.JPG "Home Page")
-    ![chatRoom](https://user-images.githubusercontent.com/24732956/78401524-8d49bf00-7616-11ea-9357-2682fb4c9a98.JPG "Chat Room")
+![Home Page](screenshots/login.jpg?raw=true "Home Page")
+
+![Chat Room](screenshots/chatRoom.jpg?raw=true "Chat Room")
 
 ## How to setup
 

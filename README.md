@@ -4,9 +4,9 @@
 
 ## Screenshots
 
-![Home Page](screenshots/login.jpg?raw=true "Home Page")
+![Home Page](screenshots/login.JPG?raw=true "Home Page")
 
-![Chat Room](screenshots/chatRoom.jpg?raw=true "Chat Room")
+![Chat Room](screenshots/chatRoom.JPG?raw=true "Chat Room")
 
 ## How to setup
 
